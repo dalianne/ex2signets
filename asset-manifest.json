@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ex2signets/static/css/main.afd7172b.chunk.css",
-    "main.js": "/ex2signets/static/js/main.7ae0611a.chunk.js",
-    "main.js.map": "/ex2signets/static/js/main.7ae0611a.chunk.js.map",
+    "main.css": "/ex2signets/static/css/main.a705f99e.chunk.css",
+    "main.js": "/ex2signets/static/js/main.5bfa728a.chunk.js",
+    "main.js.map": "/ex2signets/static/js/main.5bfa728a.chunk.js.map",
     "runtime-main.js": "/ex2signets/static/js/runtime-main.97e2e412.js",
     "runtime-main.js.map": "/ex2signets/static/js/runtime-main.97e2e412.js.map",
-    "static/js/2.92a0422d.chunk.js": "/ex2signets/static/js/2.92a0422d.chunk.js",
-    "static/js/2.92a0422d.chunk.js.map": "/ex2signets/static/js/2.92a0422d.chunk.js.map",
+    "static/js/2.b2915354.chunk.js": "/ex2signets/static/js/2.b2915354.chunk.js",
+    "static/js/2.b2915354.chunk.js.map": "/ex2signets/static/js/2.b2915354.chunk.js.map",
     "index.html": "/ex2signets/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/ex2signets/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.92a0422d.chunk.js.LICENSE.txt": "/ex2signets/static/js/2.92a0422d.chunk.js.LICENSE.txt"
+    "static/css/main.a705f99e.chunk.css.map": "/ex2signets/static/css/main.a705f99e.chunk.css.map",
+    "static/js/2.b2915354.chunk.js.LICENSE.txt": "/ex2signets/static/js/2.b2915354.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97e2e412.js",
-    "static/js/2.92a0422d.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.7ae0611a.chunk.js"
+    "static/js/2.b2915354.chunk.js",
+    "static/css/main.a705f99e.chunk.css",
+    "static/js/main.5bfa728a.chunk.js"
   ]
 }
