@@ -8,7 +8,7 @@ export default function Appli() {
     <div className="Appli">
         <Entete />
         <section className="contenu-principal">
-          <ListeDossiers />
+          <ListeDossiers /> 
           <BtnAjoutRessource type="ajout-dossier" />
         </section>
     </div>
