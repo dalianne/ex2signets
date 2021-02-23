@@ -1,0 +1,46 @@
+.Dossier {
+    margin: 15px;
+    padding: 0;
+    position: relative;
+    background-color: yellowgreen;
+    color: white;
+    box-shadow: 1px 1px 5px #000000a4;
+
+    .deplacer {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 35px;
+        height: 35px;
+        padding: 5px;
+        font-size: 1.5em;
+        text-align: center;
+        color: white;
+        background-color: rgba(29, 29, 29, 0.616);
+        border-radius: 50%;
+        cursor: pointer;
+    }
+
+    .info {
+        h2 {
+            font-size: 1.3em;
+            font-weight: 400;
+            margin: 15px 0 10px 15px;
+        }
+
+        p {
+            padding: 0 0 30px 15px;
+            font-weight: 700;
+        }
+    }
+
+    button {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        border: 0;
+        background: none;
+        color: white;
+        cursor: pointer;
+    }
+}
